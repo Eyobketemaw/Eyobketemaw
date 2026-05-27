@@ -75,17 +75,7 @@ Mobile Developer
 📸 Screenshots
 <img width="307" height="676" alt="Screenshot 2026-01-16 213453" src="https://github.com/user-attachments/assets/1c1f5986-b977-4799-bad5-22e87c6e1b90" />
 
-<img width="307" height="676" alt="Screenshot 2026-01-16 213453" src="https://github.com/user-attachments/assets/4e28abab-fa65-4297-a21f-6fa985e36fee" />
-
-<img width="307" height="676" alt="Screenshot 2026-01-16 213453" src="https://github.com/user-attachments/assets/b7aa1ef7-d09a-4364-95fb-a1d4b59c3879" />
-
-<img width="307" height="676" alt="Screenshot 2026-01-16 213453" src="https://github.com/user-attachments/assets/2cbeb819-077d-4575-b3bd-38d83ce57d1d" />
-
-<img width="307" height="676" alt="Screenshot 2026-01-16 213453" src="https://github.com/user-attachments/assets/e8d9c355-29a4-4847-a7c5-61e5c715ccec" />
-
-<img width="307" height="676" alt="Screenshot 2026-01-16 213453" src="https://github.com/user-attachments/assets/53fbc9ce-956b-42bb-a920-01bd8428a7ed" />
-
-<img width="307" height="676" alt="Screenshot 2026-01-16 213453" src="https://github.com/user-attachments/assets/c54117d7-b7b5-4d31-99bc-f9c44bcef21b" />
+<img width="314" height="672" alt="Screenshot 2026-01-16 213409" src="https://github.com/user-attachments/assets/47bb4a8b-2fa1-47f0-9082-9b9ce7b5b090" />
 
 
 
