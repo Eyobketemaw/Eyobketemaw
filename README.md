@@ -77,7 +77,14 @@ Mobile Developer
 
 <img width="314" height="672" alt="Screenshot 2026-01-16 213409" src="https://github.com/user-attachments/assets/47bb4a8b-2fa1-47f0-9082-9b9ce7b5b090" />
 
+<img width="312" height="659" alt="Screenshot 2026-01-16 213512" src="https://github.com/user-attachments/assets/43956469-088f-419c-b6f9-e8fa882f29d6" />
 
+<img width="319" height="672" alt="Screenshot 2026-01-16 213625" src="https://github.com/user-attachments/assets/0bcc4f2f-8db7-4efb-8d09-315ee59f15ed" />
+
+<img width="319" height="672" alt="Screenshot 2026-01-16 213625" src="https://github.com/user-attachments/assets/1b3c5219-10c6-4f77-98e6-ecdf30076a56" />
+
+
+<img width="319" height="672" alt="Screenshot 2026-01-16 213625" src="https://github.com/user-attachments/assets/e9c766ac-c3cf-482d-be80-9116ee11d2d0" />
 
 ## Fuel Flow – Smart Logistics Platform
 
